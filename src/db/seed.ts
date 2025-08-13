@@ -451,6 +451,14 @@ const products = [
     ],
   },
 
+  {
+    name: "Camiseta All Black",
+    description: 
+      "Camiseta toda preta sem estampa. Malha fresca.",
+    categoryName: "Camisetas",
+    variants: [{color: "Black", Price: 5400}],
+  },
+
   // Jaquetas & Moletons
   {
     name: "Corta Vento",
